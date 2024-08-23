@@ -243,34 +243,3 @@ with tab1:
         
         df_aux.columns = ['Cidade', 'Tipo de Pedido','avg_time', 'std_time']
         st.dataframe(df_aux)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
